@@ -28,7 +28,7 @@
 #roderickchan/debug_pwn_env:22.04-2.35-0ubuntu3.4-20231127
 #roderickchan/debug_pwn_env:20.04-2.31-0ubuntu9.12-20231127
 #medicean/vulapps:t_tomcat_2
-ubuntu:16.04
-ubuntu:18.04
-ubuntu:22.04
-
+#ubuntu:16.04
+#ubuntu:18.04
+#ubuntu:22.04
+ubuntu:20.04
